@@ -7,12 +7,6 @@ Essa mistura me aproxima tanto do usuário quanto do time técnico.
 
 📍 Goiânia, GO · 🎓 Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul)
 
-## Como eu penso produto
-- **Discovery:** entender o problema antes de propor a solução
-- **Priorização:** decidir o que fazer e o que não fazer
-- **Métricas:** definir como saber se funcionou
-- **IA aplicada:** estudando AI Product Builder e RAG
-
 ## Projetos de produto
 Em breve: cases de Discovery, PRD e Métricas no repositório
 [portfolio-renan](https://github.com/renanpotavio/portfolio-renan).
